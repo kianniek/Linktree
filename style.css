@@ -95,8 +95,4 @@ h6 {
 	  background-position: 50% 50%;
       border: 2px solid rgb(255, 255, 255)
   }
-  @media screen and (max-width: 540px){
-	  .btn{
-			line-height: 6.5;
-		}
-  }
+  
